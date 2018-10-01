@@ -17,10 +17,5 @@ The course contents are as follows:
 5. **Ethical and sustainable thinking.** You will learn about ethical and sustainable questions, focussed on the creative industries. You will apply the lessons learned on your own problem and potential solutions.
 6. **Finding the solution: ideate and prototype.** You will brainstorm and develop multiple solutions through cheap prototypes, test them, and come up with the best solution.
 7. **Motivation and perseverence.** You will learn about motivation and perseverance, both on a personal and a team level. Using the theory, you can reflect on the work performed in the past components.
-
-7.      Motivation and perseverance
-
-Students will learn about motivation and perseverance, both on a personal as a team level. Using the theory, they can reflect on the work performed in the past components.
-
-8.      Presentation and implementation
+8. **Presentation and implementation.** As the final module, you will work on presentating your solution to the client and implementing it in practice.
 
